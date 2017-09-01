@@ -1,2 +1,2 @@
-# Ryby
+# Ruby
 Ruby team
