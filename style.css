@@ -1,0 +1,61 @@
+body {
+  font: 14px/21px arial;
+  width: 100%;
+  margin: 0%;
+  padding: 0%;
+  text-align: left;
+}
+#container {
+  width: 100%;
+  margin: 0 auto;
+  background-color: white;
+}
+.contents {
+  width: 1080px;
+  margin: 0 auto;
+}
+.main {
+  width: 100%;
+}
+.redText {
+  color: red;
+  font-size: 25px;
+}
+.clearFix {
+  clear: both;
+}
+#headerDiv {
+  margin: 0 auto;
+}
+.Heading {
+  font-size: 20px;
+  font-weight: bold;
+  float: left;
+  text-align: center;
+}
+.menuBar {
+  float: right;
+  width: 70%;
+}
+.menuList {
+  float: right;
+  list-style-type: none;
+}
+li {
+  float: left;
+  padding-right: 5px;
+}
+li a {
+    display: block;
+    padding: 5px;
+    background-color: white;
+  text-decoration: none;
+  color: rgb(145,145,145);
+  border-radius: 3px;
+}
+#footer {
+   padding: 15px;
+}
+.footerMain {
+    text-align: center;
+}
